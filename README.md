@@ -1,16 +1,18 @@
 # easylyrics
 
-A new Flutter project.
+A Lyrics app made with flutter and lyricsovh api
 
-## Getting Started
+## Full Details
 
-This project is a starting point for a Flutter application.
+* Users experience a clean design
+* Users can search for songs with author and song
+* Users get the full song
+* App made with api
 
-A few resources to get you started if this is your first Flutter project:
+## Youtube
+This was also a part of my youtube video. https://youtu.be/l5-rB2j9OxY
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
+<img src="screenshots/Screenshot_1594563122.png" height=400em> <img src="screenshots/Screenshot_1594563137.png" height=400em>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
